@@ -1,0 +1,57 @@
+/* Body background and text styles */
+body {
+    background-color: #f7f7f7; /* Light gray background */
+    font-family: 'Arial', sans-serif;
+    color: #000000; /* Dark text color */
+    background-image: url("wp4327825.jpg");
+    background-size: cover;
+}
+
+/* Header styles */
+header {
+    text-align: center; /* Center the header text */
+}
+
+/* Main section styles */
+main {
+    padding: 20px;
+}
+
+/* Section with lyrics styles */
+.lyrics {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Verse styles */
+.verse {
+    font-style: italic; /* Emphasize the lyrics */
+    color: #000; /* Dark blue text color for emphasis */
+}
+
+/* Chorus styles */
+.chorus {
+    font-weight: bold; /* Emphasize the chorus */
+    color: #c8cbdd;}
+
+
+
+/* Adjust the heading styles */
+h2 {
+    color: #DDFCFF;
+    margin-bottom: 34px;
+    margin-top: -27px;
+  }
+  h1, h2 {
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+  }
+h1 {
+    color: #8EBAFF;
+  font-size: 50px;
+
+}
+
